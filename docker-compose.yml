@@ -106,6 +106,7 @@ services:
       - "ONOS_APPS=drivers,openflow,proxyarp,restsb,snmp,linkdiscovery\
 ,com.nocsys.alert\
 ,com.nocsys.analyzer\
+,com.nocsys.webssh\
 ,com.nocsys.defaultcfg\
 ,com.nocsys.dhcprelay\
 ,com.nocsys.dhcpserver\
